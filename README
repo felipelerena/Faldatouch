@@ -1,0 +1,9 @@
+Faldatouch is a framework to add multi-pointer/multi-user support to pygame applications.
+
+It was developer during pyCamp 2011[0] by members of Python Argentina[1].
+
+Faldatouch is free software, distribued under the GPL V3 license
+
+[0] http://python.org.ar/pyar/PyCamp/2011/
+[1] http://python.org.ar/
+
